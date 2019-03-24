@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1553316615 source:c:\users\lenovo\desktop\第一次培训\main\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+
+1553316634 source:c:\users\lenovo\desktop\第一次培训\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1553316639 c:\users\lenovo\desktop\第一次培训\main\linkedlist.h
+
+1553316615 source:c:\users\lenovo\desktop\第一次培训\单向链表\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+
+1553316634 source:c:\users\lenovo\desktop\第一次培训\单向链表\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1553316639 c:\users\lenovo\desktop\第一次培训\单向链表\linkedlist.h
+
+1553341908 source:c:\users\lenovo\desktop\qg训练营第一次培训\代码和源文件\单向链表\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+
+1553342044 source:c:\users\lenovo\desktop\qg训练营第一次培训\代码和源文件\单向链表\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
+1553340960 c:\users\lenovo\desktop\qg训练营第一次培训\代码和源文件\单向链表\linkedlist.h
+

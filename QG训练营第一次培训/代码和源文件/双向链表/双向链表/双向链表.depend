@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553339516 source:c:\users\lenovo\desktop\qg训练营第一次培训\代码和源文件\双向链表\双向链表\dulinklist.c
+	<stdio.h>
+	<stdlib.h>
+
+1553339045 source:c:\users\lenovo\desktop\qg训练营第一次培训\代码和源文件\双向链表\双向链表\main.c
+	<stdio.h>
+	<stdlib.h>
+	"duLinkList.h"
+
+1553338975 c:\users\lenovo\desktop\qg训练营第一次培训\代码和源文件\双向链表\双向链表\dulinklist.h
+
